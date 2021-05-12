@@ -271,7 +271,7 @@ Set Memory Limits for Parsers
 
 In Java, disable all External entinty references</rich_text>
       </node>
-      <node name="Mitigations - 01 Cheat Sheets" unique_id="22" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1620725765" ts_lastsave="1620853605">
+      <node name="Mitigations - 01 Cheat Sheets" unique_id="22" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1620725765" ts_lastsave="1620727392">
         <rich_text>OWASP XXE Cheat Sheet
 </rich_text>
         <rich_text link="webs https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html">https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html</rich_text>
